@@ -1,0 +1,11 @@
+Urmatbek Nusubaliev:
+I liked this game because it has certain difficulties every time when you gonna  beat someone's record by pressing the buttons, which in the process arouses the interest of not only one player but also several players, I also liked the graphics, it looks cool and colorful.
+
+Nursultan Begaliev:
+I tested Tilek's Flappy Bird project and I was greatly surprised with it. I had a nice nastolgy, it feels the same as I had played in my childood. Game has a smooth graphics and physics is also good. While checking the code I didn't see any problems. It is clean and robust
+
+Muzaffar Tursunbaev:
+Hi Tilek , I saw your game flappy bird, it looks really amazing, I liked how you paid attention to details and still kept it minimalistic, I did not know this can be done using c#, although I must say you can add some improvemens like customizing the bird and background for more entertaining experience, after all it looks good and  good luck on your exams
+
+Ainazik Momunalieva:
+This game is pretty attractive. I’ve noticed that the speed depends on earned scores and scores grow as a bird flies an x distance. I liked the logic. The design of the game and the way it behaves makes it professional. Super!
